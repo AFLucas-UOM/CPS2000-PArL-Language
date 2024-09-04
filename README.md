@@ -38,8 +38,6 @@ Please ensure that the current working directory (pwd) is set to the "2. Code" f
 Clone the repository:
    ```bash
    git clone https://github.com/AFLucas-UOM/CPS2000-PArL-Language.git
-
-   cd CPS2000-PArL-Language
   ```
 
 ## Contributions
