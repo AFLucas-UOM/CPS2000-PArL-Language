@@ -1,0 +1,10 @@
+// Add two numbers
+fun AddNumbers (a:int, b:int) -> int {
+    let sum:int = a + b;
+    return sum;
+}
+
+// This func takes two integers and returns true if x > y else return false
+fun XGY (x:int, y:int) -> bool {
+    return (y > x);
+}
